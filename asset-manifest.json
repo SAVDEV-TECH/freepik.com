@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/freepik.com/static/css/main.c38740d0.css",
-    "main.js": "/freepik.com/static/js/main.3405778a.js",
+    "main.js": "/freepik.com/static/js/main.95394dfa.js",
     "static/js/453.5e560239.chunk.js": "/freepik.com/static/js/453.5e560239.chunk.js",
     "index.html": "/freepik.com/index.html",
     "main.c38740d0.css.map": "/freepik.com/static/css/main.c38740d0.css.map",
-    "main.3405778a.js.map": "/freepik.com/static/js/main.3405778a.js.map",
+    "main.95394dfa.js.map": "/freepik.com/static/js/main.95394dfa.js.map",
     "453.5e560239.chunk.js.map": "/freepik.com/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c38740d0.css",
-    "static/js/main.3405778a.js"
+    "static/js/main.95394dfa.js"
   ]
 }
